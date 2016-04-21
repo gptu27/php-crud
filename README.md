@@ -7,3 +7,8 @@
 	phone: телефон абонента
 	email: email абонента
 	place: место жительства абонента
+
+### Установка (Windows)
+Скопировать файлы проекта в папку <code>C:\xampp\htdocs</code><br>
+В <code>phpmyadmin</code> импортировать данные из файла <code>localhost.sql</code><br>
+В адресной строке ввести <code>http://localhost</code>
