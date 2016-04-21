@@ -69,8 +69,8 @@
 <head>
 	<meta charset="UTF-8">
 	<title>php-crud (телефонная книга)</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://bootswatch.com/flatly/bootstrap.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/flatly-theme.min.css">
 </head>
 <body>
 
@@ -243,8 +243,8 @@
 		</div>
 	</div>
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js" charset="utf-8"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js" charset="utf-8"></script>
+	<script src="js/jquery.min.js" charset="utf-8"></script>
+	<script src="js/bootstrap.min.js" charset="utf-8"></script>
 	<script src="js/script.js" charset="utf-8"></script>
 </body>
 </html>
